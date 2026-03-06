@@ -2,4 +2,8 @@
 change again
 =======
 change file
+<<<<<<< HEAD
 >>>>>>> b18933091a01f9a11d8aed42ecb5772ca9054e8e
+=======
+feature A
+>>>>>>> origin/featureA
