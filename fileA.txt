@@ -3,3 +3,4 @@ change again
 =======
 change file
 >>>>>>> b18933091a01f9a11d8aed42ecb5772ca9054e8e
+feature B
